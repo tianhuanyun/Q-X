@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,openai.com,Bing Ai Chat
+DOMAIN-SUFFIX,challenges.cloudflare.com,Bing Ai Chat
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,Bing Ai Chat
+DOMAIN-SUFFIX,ai.com,Bing Ai Chat
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Bing Ai Chat
+DOMAIN-SUFFIX,bing.com,Bing Ai Chat
+DOMAIN-SUFFIX,bard.google.com,Bing Ai Chat
