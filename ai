@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,Bing Ai Chat
 DOMAIN-SUFFIX,ai.com,Bing Ai Chat
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Bing Ai Chat
 DOMAIN-SUFFIX,bard.google.com,Bing Ai Chat
+DOMAIN-SUFFIX,edgeservices.bing.com,Bing Ai Chat
+DOMAIN-SUFFIX,sydney.bing.com,Bing Ai Chat
+DOMAIN-SUFFIX,copilot.microsoft.com
