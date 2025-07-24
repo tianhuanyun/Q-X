@@ -6,4 +6,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Bing Ai Chat
 DOMAIN-SUFFIX,bard.google.com,Bing Ai Chat
 DOMAIN-SUFFIX,edgeservices.bing.com,Bing Ai Chat
 DOMAIN-SUFFIX,sydney.bing.com,Bing Ai Chat
-DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.microsoft.com,Bing Ai Chat
+DOMAIN-SUFFIX,cursor.com,Bing Ai Chat
+DOMAIN-SUFFIX,cursor.sh,Bing Ai Chat
+DOMAIN-SUFFIX,cursorapi.com,Bing Ai Chat
