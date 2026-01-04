@@ -1,13 +1,25 @@
-DOMAIN-SUFFIX,ai.com,Bing Ai Chat
-DOMAIN-SUFFIX,auth0.com,Bing Ai Chat
-DOMAIN-SUFFIX,challenges.cloudflare.com,Bing Ai Chat
-DOMAIN-SUFFIX,client-api.arkoselabs.com,Bing Ai Chat
-DOMAIN-SUFFIX,events.statsigapi.net,Bing Ai Chat
-DOMAIN-SUFFIX,featuregates.org,Bing Ai Chat
-DOMAIN-SUFFIX,identrust.com,Bing Ai Chat
-DOMAIN-SUFFIX,intercom.io,Bing Ai Chat
-DOMAIN-SUFFIX,intercomcdn.com,Bing Ai Chat
-DOMAIN-SUFFIX,poe.com,Bing Ai Chat
-DOMAIN-SUFFIX,sentry.io,Bing Ai Chat
-DOMAIN-SUFFIX,stripe.com,Bing Ai Chat
-DOMAIN-KEYWORD,openai,Bing Ai Chat
+DOMAIN-SUFFIX,ai.com,AI Platforms
+DOMAIN-SUFFIX,auth0.com,AI Platforms
+DOMAIN-SUFFIX,challenges.cloudflare.com,AI Platforms
+DOMAIN-SUFFIX,client-api.arkoselabs.com,AI Platforms
+DOMAIN-SUFFIX,events.statsigapi.net,AI Platforms
+DOMAIN-SUFFIX,featuregates.org,AI Platforms
+DOMAIN-SUFFIX,identrust.com,AI Platforms
+DOMAIN-SUFFIX,intercom.io,AI Platforms
+DOMAIN-SUFFIX,intercomcdn.com,AI Platforms
+DOMAIN-SUFFIX,poe.com,AI Platforms
+DOMAIN-SUFFIX,sentry.io,AI Platforms
+DOMAIN-SUFFIX,stripe.com,AI Platforms
+DOMAIN-KEYWORD,openai,AI Platforms
+# 新增 Apple Intelligence 与 ChatGPT 核心通信域名
+DOMAIN-SUFFIX,openai.com,AI Platforms
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,AI Platforms
+DOMAIN-SUFFIX,apple-relay.apple.com,AI Platforms
+DOMAIN-SUFFIX,cdn.openai.com,AI Platforms
+DOMAIN-SUFFIX,api.openai.com,AI Platforms
+DOMAIN-SUFFIX,oaiusercontent.com,AI Platforms
+DOMAIN-SUFFIX,pusher.openai.com,AI Platforms
+# 新增 ChatGPT 相关依赖域名
+DOMAIN-SUFFIX,chat.openai.com,AI Platforms
+DOMAIN-SUFFIX,cdn.oaistatic.com,AI Platforms
+DOMAIN-SUFFIX,openaicdn.azureedge.net,AI Platforms
